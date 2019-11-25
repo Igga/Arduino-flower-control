@@ -30,3 +30,7 @@ This is simple project to plants condition monitoring.
 - `CONFIG_SPRAYING_TIME` - default `4`. Spray pump Run time
 - `CONFIG_CHECK_TIME` - default `30`. Sensor polling time
 
+## Scheme
+
+![Flower control scheme](https://raw.githubusercontent.com/Igga/Arduino-flower-control/master/img/scheme.png)
+
